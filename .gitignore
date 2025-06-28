@@ -1,4 +1,6 @@
 venv
+notes.md
+
 
 __pycache__/
 *.py[codz]
